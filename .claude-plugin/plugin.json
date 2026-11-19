@@ -1,0 +1,9 @@
+{
+  "name": "cascade",
+  "description": "Split a task into steps and give each to the cheapest Claude model that can do it well: the top model plans and reviews, cheaper models do the steps.",
+  "version": "1.0.1",
+  "license": "Apache-2.0",
+  "author": { "name": "Jaiden Ivan" },
+  "homepage": "https://github.com/jadwnlsmn/Cascade",
+  "repository": "https://github.com/jadwnlsmn/Cascade"
+}

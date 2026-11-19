@@ -1,0 +1,8 @@
+{
+  "name": "cascade",
+  "owner": { "name": "Jaiden Ivan" },
+  "description": "Cascade: plan a task into steps run by the cheapest model that can do each.",
+  "plugins": [
+    { "name": "cascade", "source": "./", "description": "Plan a task into steps, each run by the cheapest model that can do it well." }
+  ]
+}
